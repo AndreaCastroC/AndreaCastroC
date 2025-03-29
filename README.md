@@ -1,4 +1,5 @@
 # Hola! 👋
+![Banner](https://github.com/AndreaCastroC/AndreaCastroC/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 ## Sobre mi:
 
